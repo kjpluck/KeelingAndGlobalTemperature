@@ -1,0 +1,2 @@
+https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.csv
+http://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/in_situ_co2/monthly/monthly_in_situ_co2_mlo.csv
